@@ -18,6 +18,18 @@
  
  <hr>
 
+ <h1> <a href="https://daodavid.github.io/classic-ML/notes/reguralization.html">Regularization</a></h1>
+ <font size="4" face="Times New Roma" color="#3f134f"> 
+    <ul style="margin-left: 30px">
+      <li><a href="https://daodavid.github.io/classic-ML/notes/reguralization.html#intro-pol"> Polynomial Regression, Bias and Variance </a> </li> <br>
+      <li><a href="https://daodavid.github.io/classic-ML/notes/reguralization.html#lasso"> Lasso Regression (L1 Regularization)</a> </li><br>
+      <li><a href="https://daodavid.github.io/classic-ML/notes/reguralization.html#feature"> Lasso as feature selection</a> </li><br>  
+      <li><a href="https://daodavid.github.io/classic-ML/notes/reguralization.html#ridge"> Ridge regression (L2 regularization)</a> </li><br>          
+      <li><a href="https://daodavid.github.io/classic-ML/notes/reguralization.html#k-fold">  K-fold cross validation </a> </li><br>       
+      <li><a href="https://daodavid.github.io/classic-ML/notes/reguralization.html#ref"> References </a> </li><br>     
+</ul>    
+ </font>
+ <hr>
 <h1> <a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html"> Logistic Regression </a></h1>
  <font size="4" face="Times New Roma" color="#3f134f"> 
  <ul style="margin-left: 30px">
