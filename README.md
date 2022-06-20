@@ -24,7 +24,7 @@
       <li><a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html#odds-ration"> Log-odds or Loggit function  </a> </li> <br>
          <li><a href="#origin">The math origin of the Sigmoid function</a> </li><br>  
       <li><a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html#prop"> Properties and Identities Of Sigmoid Function</a> </li><br>  
-      <li><a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html#max-li"> Maximum Likelyhood of Logistic regression, Cross-entropy Loss</a> </li><br>   
+      <li><a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html#max-li">Maximum Likelihood of Logistic regression, Cross-entropy Loss</a> </li><br>   
       <li><a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html#grad-descent">  Mathematical derivation of cross-entopy loss.Gradient Descent </a> </li><br>   
       <li><a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html#impl">   Implementation of BinaryLogisticRegression using numpy </a> </li><br>       
       <li><a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html#reg"> Reguralization of Logistic Regression  </a> </li><br>       
