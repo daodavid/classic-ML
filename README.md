@@ -43,3 +43,18 @@
       <li><a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html#ref"> References </a> </li><br>     
 </ul>    
  </font>
+<hr>
+
+<h1> <a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html">Regularization</a></h1>
+<font size="4" face="Times New Roma" color="#3f134f"> 
+    <ul style="margin-left: 30px">
+      <li><a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html#abstract">Abstract </a> </li> <br>
+      <!--<li><a href='#int-1'>Introduction </a> </li><br> -->
+      <li><a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html#deff_softmax">Softmaxt definition and  how it works?</a> </li><br>
+      <li><a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html#optimization">Optimizaton of  Softmax Loss with Gradient Descent (Deep math calculation)</a> </li><br>  
+      <li><a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html#impl">Implementation of Softmax using numpy </a> </li><br>
+       <li><a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html#reg">Regularization of softmax by learning rate and max iterations</a> </li><br> 
+       <li><a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html#conclusion">Conclusion</a> </li><br>  
+
+</ul>    
+ </font>
