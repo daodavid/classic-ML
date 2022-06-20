@@ -2,7 +2,7 @@
 https://daodavid.github.io/classic-ML/notes/notes/linear-regression.html
 <u> <h1> Linear Regression <h1> </u>
   
-  
+<h1> <a href="https://daodavid.github.io/classic-ML/notes/linear-regression.html"> Linear Regression </a></h1>
   <h6>
   <font size="4" face="Times New Roma" color="#3f134f"> 
     <ul style="margin-left: 30px">
