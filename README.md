@@ -1,5 +1,5 @@
 # classic Machine Learning Algorithms
-
+<hr> <hr>
   
 <h1> <a href="https://daodavid.github.io/classic-ML/notes/linear-regression.html"> Linear Regression </a></h1>
   <h4>
@@ -16,7 +16,7 @@
 </font>
  </h4>
  
- <hr>
+<hr> <hr>
 
  <h1> <a href="https://daodavid.github.io/classic-ML/notes/reguralization.html">Regularization</a></h1>
  <font size="4" face="Times New Roma" color="#3f134f"> 
@@ -29,7 +29,7 @@
       <li><a href="https://daodavid.github.io/classic-ML/notes/reguralization.html#ref"> References </a> </li><br>     
 </ul>    
  </font>
- <hr>
+<hr> <hr>
 <h1> <a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html"> Logistic Regression </a></h1>
  <font size="4" face="Times New Roma" color="#3f134f"> 
  <ul style="margin-left: 30px">
@@ -43,7 +43,7 @@
       <li><a href="https://daodavid.github.io/classic-ML/notes/logistic_regression.html#ref"> References </a> </li><br>     
 </ul>    
  </font>
-<hr>
+<hr> <hr>
 
 <h1> <a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html">Regularization</a></h1>
 <font size="4" face="Times New Roma" color="#3f134f"> 
@@ -58,3 +58,16 @@
 
 </ul>    
  </font>
+<hr> <hr>
+
+<h1> <a href="https://daodavid.github.io/classic-ML/notes/naive_bayes_classifier.html">Naive Bayes Classifier</a></h1>
+<font size="4" face="Times New Roma" color="#3f134f"> 
+    <ul style="margin-left: 30px">
+      <li><a href="https://daodavid.github.io/classic-ML/notes/naive_bayes_classifier.html#bayes_theorem">Bayes Theorem</a> </li> <br>
+      <li><a href="https://daodavid.github.io/classic-ML/notes/naive_bayes_classifier.html#works">How does Binomial Naive Bayes work?</a> </li><br>
+      <li><a href="https://daodavid.github.io/classic-ML/notes/naive_bayes_classifier.html#likeli-invest">Investigation of likelihood and posterior probability  throw features values of Titanic dataset</a> </li><br>  
+      <li><a href="https://daodavid.github.io/classic-ML/notes/naive_bayes_classifier.html#testing"> Implementation of likelihood table for Gaussian Naive Bayes and testing on Titanic </a> </li><br>
+       <li><a href="https://daodavid.github.io/classic-ML/notes/naive_bayes_classifier.html#bernuli"> Bernoulli Naive Bayes</a> </li><br> 
+       <li><a href="https://daodavid.github.io/classic-ML/notes/naive_bayes_classifier.html#ref">References</a> </li><br>  
+    </ul>    
+</font>
