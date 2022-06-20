@@ -45,7 +45,7 @@
  </font>
 <hr> <hr>
 
-<h1> <a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html">Regularization</a></h1>
+<h1> <a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html">Soft-Max Regression</a></h1>
 <font size="4" face="Times New Roma" color="#3f134f"> 
     <ul style="margin-left: 30px">
       <li><a href="https://daodavid.github.io/classic-ML/notes/softmax-regression.html#abstract">Abstract </a> </li> <br>
